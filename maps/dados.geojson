@@ -1,0 +1,63 @@
+var dadosMapa = [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "bairro": "Tijuca",
+                "genero": "Masculino"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-22.921384, -43.236217]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "bairro": "Barra",
+                "genero": "Feminino"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-22.997856, -43.399788]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "bairro": "Maracanã",
+                "genero": "Qualquer",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-22.913465, -43.232063]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "bairro": "Maracanã",
+                "genero": "Qualquer",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-22.913465, -43.22093]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "bairro": "Fonseca",
+                "genero": "Feminino",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-22.880924843993736, -43.08712899684906]
+            }
+        },
+        
+    ];
